@@ -1,0 +1,344 @@
+/* Modify the background color */
+
+body {
+    background-color: #1E1E1E;
+}
+
+/* Modify brand and text color */
+
+.nav-item {
+    font-family: 'Prosto One', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 25px;
+}
+
+.navbar-brand {
+    position: absolute;
+    left: 35px;
+    top: 35px;
+}
+
+.wavingHand {
+    margin-bottom: 0px;
+}
+
+.jumbotron {
+    background-color: #EACC43;
+    font-size: 20px;
+
+}
+
+.suwayba {
+    font-size: 60px;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-weight: bold;
+    color: #2E839F;
+}
+
+.uxdesigner {
+    font-size: 60px;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-weight: bold;
+    color:#CF6671;
+}
+
+.weightlifter {
+    font-size: 60px;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-weight: bold;
+    color: #347E5D;
+}
+
+.illustrator {
+    font-size: 60px;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-weight: bold;
+    color: #B13B1C;
+}
+
+.jumbotron3 {
+    background-color: #CF6671;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-size: 15px;
+    text-align: center;
+}
+
+.jumbotron4 {
+    background-color: #347E5D;
+    font-family: 'magra', sans serif;
+    color: #FFFFFF; 
+    font-size: 15px;
+    text-align: center;
+}
+
+.jumbotron6 {
+    background-color: white;
+    font-family: 'magra', sans serif;
+    color: black; 
+    font-size: 15px;
+    text-align: center;
+}
+.intro {
+    font-family: 'magra', sans serif;
+    color: #FFFFFF;
+    position: relative;
+    margin-top: 125px;
+    font-size: 60px;
+}
+
+.heroImage {
+    /* position: relative; */
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.UXProjects {
+    color: white;
+    font-family: 'magra', sans serif;
+    text-align: center;
+    font-size: 35px;
+}
+
+#leftside {
+    position: relative;
+    font-size: 60px;
+}
+
+.cards {
+    font-family: 'magra', sans serif;
+    color: #EACC43;
+}
+
+#socialpulse {
+    background-color: #CF6671;
+    margin-left: 65px;
+    margin-right: 65px;
+    color: #FFFFFF;
+    border-radius: 5%;
+}
+
+.SocialPulse {
+    font-family: 'magra', sans serif;
+    font-size: 45px;
+    margin-top: 70px;
+    margin-left: 50px;
+    color: white;
+}
+
+.caption {
+    font-family: 'Prosto One', cursive;
+    color: #FFFFFF; 
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.button {
+    background-color: #2E839F;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-family: 'Prosto One', cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.socialimage {
+    padding-right: 0%;
+}
+
+#hafiz {
+    background-color: #347E5D;
+    margin-left: 65px;
+    margin-right: 65px;
+    color: #FFFFFF;
+    border-radius: 5%;
+}
+
+.button1 {
+    background-color: #B13B1C;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 25px;
+    font-family: 'Prosto One', cursive;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.Hafiz {
+    font-family: 'magra', sans serif;
+    font-size: 45px;
+    margin-top: 70px;
+    margin-left: 50px;
+    color: white;
+}
+
+.hafizimage {
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.socialimage {
+    margin-top: 30px;
+    margin-right: 30px;
+}
+
+.footer {
+    background-color: #EACC43;
+    width: 100%;
+    height: 310px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.footerCopyright {
+    font-family: 'Prosto One', cursive;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+.footerLogo {
+    font-family: 'Homemade Apple', cursive;
+    font-size: 40px;
+}
+
+.footerLinks {
+    text-decoration: none;
+    font-family: 'magra', sans-serif;
+    display: inline-flex;
+    list-style-type: none;
+    float: center;
+    font-size: 25px;
+}
+
+.footerhome {
+    padding-right: 20px;
+}
+
+.footerabout {
+    padding-right: 20px;
+}
+
+.footerdeals {
+    padding-right: 20px;
+}
+
+address {
+    margin-top: 8px;
+    color: black;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 13px;
+    text-align: center;
+}
+
+.footerSocialButtons {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    column-gap: 20px;
+    justify-content: center;
+}
+
+#aboutme {
+    background-color: #FFFFFF;
+    margin-left: 65px;
+    margin-right: 65px;
+    color: #FFFFFF;
+    border-radius: 50px;
+}
+
+.aboutme {
+    font-family: 'Prosto One', cursive;
+    font-size: 30px;
+    color: #1E1E1E;
+    margin-top: 80px;
+    margin-left: 60px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+
+.selfie {
+    position: relative;
+    padding: 20px;
+    margin-top: 70px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    border-radius: 50px;
+}
+
+.jumbotron2 {
+    background-color: #B13B1C;
+    font-family: 'Magra', sans serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#socialpulseproject {
+    background-color: white;
+    font-family: 'Magra', sans serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.card {
+    margin: 60px;
+    border-radius: 40px;
+    background-color: #CF6671;
+}
+
+#card-hafiz {
+    background-color: #347E5D;
+    margin: 60px;
+    border-radius: 40px;
+}
+
+.socialPulseBanner {
+    text-align: center;
+}
+
+.reflectionsBox {
+    text-align: left;
+}
+
+#leftside {
+    margin-left: 15px;
+}
+
+#card-socialpulse {
+    background-color: white;
+    margin: 30px;
+}
+
+#aboutme-card {
+    margin: 60px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.SP-discover6 {
+    border-radius: 15px;
+}
